@@ -39,7 +39,3 @@ The dataset used for training the model consists of labeled news articles, where
 ## Contributing
 
 Feel free to fork this project, make changes, and submit a pull request. Any improvements or fixes are welcome!
-
-## License
-
-This project is licensed under the MIT License.
